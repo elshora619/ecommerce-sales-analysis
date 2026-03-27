@@ -104,9 +104,3 @@ ecommerce-sales-analysis/
 │── README.md  
 
 ---
-
-## 👨‍💻 Author
-
-**Abdelrahman Elshora**  
-- Data Analyst | Backend Developer  
-- GitHub: https://github.com/elshora619
